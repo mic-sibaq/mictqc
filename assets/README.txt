@@ -1,0 +1,1 @@
+competition-poster.jpg is the supplied official poster. Add your official campus logo and payment QR here. Use payment-qr.png for the payment QR. The website still needs the real payment QR configured separately from the registration QR printed on the poster.

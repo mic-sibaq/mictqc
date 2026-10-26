@@ -1,0 +1,9 @@
+{
+  "name": "mic-thahfeezul-quran-hifz-competition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-friendly Hifz competition registration website for Vercel",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
